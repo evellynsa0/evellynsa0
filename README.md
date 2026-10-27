@@ -10,7 +10,8 @@ Sistema de gerenciamento de atendimentos para uma barbearia, desenvolvido em Jav
 ### Hotel Diamante Azul
 Projeto acadêmico de um sistema de gerenciamento hoteleiro, com foco na organização de quartos, hóspedes e reservas.
 
-## Tecnologias em estudo
+## Tecnologias 
+
 - Java
 - Programação orientada a objetos (POO)
 - ArrayList e estruturas de controle
