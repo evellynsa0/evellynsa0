@@ -11,7 +11,6 @@ Sistema de gerenciamento de atendimentos para uma barbearia, desenvolvido em Jav
 Projeto acadêmico de um sistema de gerenciamento hoteleiro, com foco na organização de quartos, hóspedes e reservas.
 
 ## Tecnologias em estudo
-
 - Java
 - Programação orientada a objetos (POO)
 - ArrayList e estruturas de controle
